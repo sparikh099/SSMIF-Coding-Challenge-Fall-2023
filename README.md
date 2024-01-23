@@ -1,7 +1,7 @@
 # SSMIF-Coding-Challenge-Fall-2023
 Quantitative Investments Coding Challenge
-The challenge provided one week to complete two significant projects based on the quantitative 
-analysis of financial assets
+
+The challenge provided one week to complete two significant projects based on the quantitative analysis of financial assets.
 ## DataFrame Cleaning for Portfolio
 Focused on Filling missing data and deleting Unnecessary Data.
 
